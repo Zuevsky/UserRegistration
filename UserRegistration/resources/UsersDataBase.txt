@@ -1,4 +1,0 @@
-alexey@mail.ru;alexey;zuevsky;SUPER_ADMIN;375265478952;
-dasha_petrova@yandex.by;dasha;petrova;CUSTOMER,ADMIN;375465208531,375845632015;
-andrey_zeus@list.co;andrey;zeus;SUPER_ADMIN;375874562154,375895013247,375863205176;
-dmitriy.shved@gmail.com;dmitriy;shved;USER,PROVIDER;375648742502,375963025418;
